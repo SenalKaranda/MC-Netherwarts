@@ -1,6 +1,6 @@
 
 # Netherwarts
-A Wizard and Magic themed mod for minecraft. Uses the Fabric API.
+A Wizard and Magic themed mod for minecraft. Inspired by the wizarding world of Harry Potter. Uses the Fabric API.
 
 # Blocks
 
