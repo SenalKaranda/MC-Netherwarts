@@ -1,0 +1,37 @@
+{
+  "item.netherwarts.wand_base": "Wand Base",
+
+  "item.netherwarts.stone_wand_tip": "Stone Wand Handle",
+  "item.netherwarts.copper_wand_tip": "Copper Wand Handle",
+  "item.netherwarts.iron_wand_tip": "Iron Wand Handle",
+  "item.netherwarts.lapis_wand_tip": "Lapis Wand Handle",
+  "item.netherwarts.gold_wand_tip": "Gold Wand Handle",
+  "item.netherwarts.emerald_wand_tip": "Emerald Wand Handle",
+  "item.netherwarts.netherite_wand_tip": "Netherite Wand Handle",
+  "item.netherwarts.diamond_wand_tip": "Diamond Wand Handle",
+
+  "item.netherwarts.blaze_wand_core": "Flame Essence",
+  "item.netherwarts.piglin_wand_core": "Hog's Heartstring",
+  "item.netherwarts.witherskeleton_wand_core": "Wither Marrow",
+
+  "block.netherwarts.wand_forge": "Wand Forge",
+
+  "item.netherwarts.stone_wand": "Stone Wand",
+  "item.netherwarts.copper_wand": "Copper Wand",
+  "item.netherwarts.iron_wand": "Iron Wand",
+  "item.netherwarts.lapis_wand": "Lapis Wand",
+  "item.netherwarts.gold_wand": "Gold Wand",
+  "item.netherwarts.emerald_wand": "Emerald Wand",
+  "item.netherwarts.netherite_wand": "Netherite Wand",
+  "item.netherwarts.diamond_wand": "Diamond Wand",
+
+  "item.netherwarts.wand_base.tooltip": "The base for forging a wand.",
+
+  "item.netherwarts.wand_tip.tooltip": "A handle for forging a wand.",
+
+  "item.netherwarts.blaze_wand_core.tooltip": "A wand core made from the essence of a Blaze's flame.",
+  "item.netherwarts.piglin_wand_core.tooltip": "A wand core made from the Heartstring of a Piglin.",
+  "item.netherwarts.witherskeleton_wand_core.tooltip": "A wand core made from the marrow of a Wither Skeleton's bones.",
+
+  "item.netherwarts.wand.tooltip": "A magical wand. A powerful aura emanates from it."
+}

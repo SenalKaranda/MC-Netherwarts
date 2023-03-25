@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "netherwarts",
+  "version": "${version}",
+  "name": "Netherwarts",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/Senal/Netherwarts"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/Netherwarts/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "us.catdadstudios.netherwarts.client.NetherwartsClient"
+    ],
+    "main": [
+      "us.catdadstudios.netherwarts.Netherwarts"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.18",
+    "fabric": "*",
+    "minecraft": "1.19.4"
+  }
+}

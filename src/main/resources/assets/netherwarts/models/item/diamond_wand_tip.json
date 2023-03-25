@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "netherwarts:item/wood",
+		"8": "netherwarts:item/diamond",
+		"particle": "wood"
+	},
+	"elements": [
+		{
+			"name": "Handle",
+			"from": [6, 0, 6],
+			"to": [9, 5, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 5], "texture": "#8"},
+				"east": {"uv": [0, 0, 3, 5], "texture": "#8"},
+				"south": {"uv": [0, 0, 3, 5], "texture": "#8"},
+				"west": {"uv": [0, 0, 3, 5], "texture": "#8"},
+				"up": {"uv": [0, 0, 3, 3], "texture": "#8"},
+				"down": {"uv": [0, 0, 3, 3], "texture": "#8"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.25, 3, 1.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3, 1.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-25, 0, 0],
+			"translation": [5, 5, -4.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-25, 0, 0],
+			"translation": [5, 5, -4.5]
+		},
+		"ground": {
+			"rotation": [45, 0, 0],
+			"translation": [0, 5, 0]
+		},
+		"gui": {
+			"rotation": [0, 0, 45],
+			"translation": [-3.5, 4, 0]
+		},
+		"head": {
+			"translation": [0, 11, 0]
+		},
+		"fixed": {
+			"rotation": [0, 0, 45],
+			"translation": [-4, 4, 0]
+		}
+	}
+}

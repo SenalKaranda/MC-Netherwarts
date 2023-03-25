@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SS "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "netherwarts:emerald_wand_tip",
+    "count": 1
+  }
+}
+

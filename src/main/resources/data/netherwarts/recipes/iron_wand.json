@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C  ",
+    " S ",
+    "  S"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "netherwarts:iron_wand_tip"
+    }
+  },
+  "result": {
+    "item": "netherwarts:iron_wand",
+    "count": 1
+  }
+}
+
